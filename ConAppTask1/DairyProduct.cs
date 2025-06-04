@@ -6,7 +6,7 @@
         private string milkContent;
 
         public DairyProduct(string name, DateTime releaseDate, int shelfLifeDays,
-                          double price, string manufacturer, double milkContent)
+                          string price, string manufacturer, string milkContent)
             : base(name, releaseDate, shelfLifeDays, price)
         {
             manufacturer = manufacturer;
