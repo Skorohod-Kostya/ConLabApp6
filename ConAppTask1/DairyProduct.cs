@@ -3,7 +3,7 @@
     public class DairyProduct : Product
     {
         private string manufacturer;
-        private double milkContent;
+        private string milkContent;
 
         public DairyProduct(string name, DateTime releaseDate, int shelfLifeDays,
                           double price, string manufacturer, double milkContent)
