@@ -5,9 +5,9 @@
         protected string name;
         protected DateTime releaseDate;
         protected int shelfLifeDays;
-        protected double price;
+        protected string price;
 
-        public Product(string name, DateTime releaseDate, int shelfLifeDays, double price)
+        public Product(string name, DateTime releaseDate, int shelfLifeDays, string price)
         {
             name = name;
             releaseDate = releaseDate;
@@ -18,7 +18,7 @@
         public void SetName(string name) => name = name;
         public void SetReleaseDate(DateTime date) => releaseDate = date;
         public void SetShelfLife(int days) => shelfLifeDays = days;
-        public void SetPrice(double price) => price = price;
+        public void SetPrice(string price) => price = price;
 
         public virtual string CheckShelfLife()
         {
