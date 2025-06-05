@@ -7,6 +7,7 @@ D:\CMOOP\ConAppLab6\ConAppTask1\obj\Debug\net8.0\ConAppTask1.GeneratedMSBuildEdi
 D:\CMOOP\ConAppLab6\ConAppTask1\obj\Debug\net8.0\ConAppTask1.AssemblyInfoInputs.cache
 D:\CMOOP\ConAppLab6\ConAppTask1\obj\Debug\net8.0\ConAppTask1.AssemblyInfo.cs
 D:\CMOOP\ConAppLab6\ConAppTask1\obj\Debug\net8.0\ConAppTask1.csproj.CoreCompileInputs.cache
+D:\CMOOP\ConAppLab6\ConAppTask1\obj\Debug\net8.0\ConAppTask1.sourcelink.json
 D:\CMOOP\ConAppLab6\ConAppTask1\obj\Debug\net8.0\ConAppTask1.dll
 D:\CMOOP\ConAppLab6\ConAppTask1\obj\Debug\net8.0\refint\ConAppTask1.dll
 D:\CMOOP\ConAppLab6\ConAppTask1\obj\Debug\net8.0\ConAppTask1.pdb
